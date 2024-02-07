@@ -13,7 +13,8 @@ GeoLogix-dapp is a decentralized application (dApp) built on the Ethereum blockc
 ## Development Environment Setup
 To set up the development environment for Refund By Location dApp, follow these steps:
 
-Install Node.js and npm.
+Download and Install Node.js and npm from
+[text](https://nodejs.org/en/download)
 
 Clone the repository to your local machine.
 ```
