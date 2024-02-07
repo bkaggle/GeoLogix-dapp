@@ -1,7 +1,7 @@
-# Refund-by-Location-Smart-Contract
+# GeoLogix-dapp
 
 ## Overview
-Refund By Location is a decentralized application (dApp) built on the Ethereum blockchain, designed to automate the refund process based on the location data of drivers or devices within specified geographic zones. The project aims to enhance transparency, efficiency, and reliability in refund transactions, leveraging blockchain technology and smart contracts.
+GeoLogix-dapp is a decentralized application (dApp) built on the Ethereum blockchain, designed to automate the refund process based on the location data of drivers or devices within specified geographic zones. The project aims to enhance transparency, efficiency, and reliability in refund transactions, leveraging blockchain technology and smart contracts.
 
 ## Features
 1. Automated refund process based on GPS location data.
