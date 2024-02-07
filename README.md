@@ -21,6 +21,10 @@ Clone the repository to your local machine.
  git clone https://www.https://github.com/bkaggle/GeoLogix-dapp.git
 
 ```
+
+This project demonstrates a Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
 ```
 npx hardhat help
 npx hardhat test
